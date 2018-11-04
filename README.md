@@ -15,3 +15,4 @@ I'm currently looking over elemntary problems found on websites, such as https:/
 
 - Learn fundamentals of python (including naming convention, etc)
 - Start a side project (in any field, whether it be a simple GUI game, a recreation of my early university projects, or perhaps a machine learning gig)
+- Ultimately use this knowledge in future endeavors (whether it be personal or for my career)
