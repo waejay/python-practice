@@ -8,7 +8,7 @@ In order for me to kickstart my journey into A.I./machine learning, I figured py
 
 ##### How Am I Learning Python?
 
-I'm currently looking over elemntary problems found on websites, such as https://adriann.github.io/programming_problems.html . I'm hoping to get the basics of python down and possibly start a *very* small side project and work my way up there.
+I'm currently looking over elementary problems found on websites, such as https://adriann.github.io/programming_problems.html . I'm hoping to get the basics of python down and possibly start a *very* small side project and work my way up there.
 
 
 ##### Goals
