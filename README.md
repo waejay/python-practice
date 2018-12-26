@@ -1,4 +1,4 @@
-Using this repository to store all my python practice problems. Comments not made on the early problems.
+Using this repository to store all my python practice/test files. Comments not made on the early problems.
 
 ----------
 
@@ -8,7 +8,11 @@ In order for me to kickstart my journey into A.I./machine learning, I figured py
 
 ##### How Am I Learning Python?
 
-I'm currently looking over elementary problems found on websites, such as https://adriann.github.io/programming_problems.html . I'm hoping to get the basics of python down and possibly start a *very* small side project and work my way up there.
+I'm currently checking out **"Automate the Boring Stuff with Python"** and also stumbling upon random modules (such as pyautogui) and tinkering with them, testing out different codes based on what I'm feeling at the moment.
+
+Previous methods of learning:
+
+- elementary programming problems via adrian: https://adriann.github.io/programming_problems.html 
 
 
 ##### Goals
