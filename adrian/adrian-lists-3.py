@@ -20,4 +20,3 @@ while (True):
 
 	# Keep checking if input is in list
 	print(isInList(number, numbers))
-
